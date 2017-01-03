@@ -12,4 +12,4 @@ Disclaimer
 ------
 These images were originally published under a Creative Commons Attribution 3.0 Unported Licence. Material from this article can be used in other publications provided that the following acknowledgement is given:
 
-A. M. Ganose, C. N. Savory, D. O. Scanlon, Beyond Methylammonium Lead Iodide: Prospects for the Emergent Field of ns<sup>2</sup> Containing Solar Absorbers, *Chem. Commun.*, **53**, 20–44 (2016) - Published by The Royal Society of Chemistry.
+> A. M. Ganose, C. N. Savory, D. O. Scanlon, Beyond Methylammonium Lead Iodide: Prospects for the Emergent Field of ns<sup>2</sup> Containing Solar Absorbers, *Chem. Commun.*, **53**, 20–44 (2016) - Published by The Royal Society of Chemistry.
