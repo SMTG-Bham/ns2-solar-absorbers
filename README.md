@@ -1,4 +1,4 @@
-# ns<sup>2</sup> containing solar absorbers
+# Emergent ns<sup>2</sup> Containing Solar Absorbers
 
 Repository for paper: Beyond Methylammonium Lead Iodide: Prospects for the Emergent Field of ns<sup>2</sup> Containing Solar Absorbers
 
