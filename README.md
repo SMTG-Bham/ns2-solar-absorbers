@@ -8,6 +8,8 @@ This repository contains vector and bitmap files for the solar cell efficiency c
 
 Feel free to use these images as you wish, however, please ensure proper attribution in the form of a citation if used in a presentation or paper.
 
+![Efficiency improvements for a range of ns2 solar absorbers](https://raw.githubusercontent.com/SMTG-UCL/ns2-solar-absorbers/master/ns2-absorber-efficiency-chart.png)
+
 Disclaimer
 ------
 These images were originally published under a Creative Commons Attribution 3.0 Unported Licence. Material from this article can be used in other publications provided that the following acknowledgement is given:
