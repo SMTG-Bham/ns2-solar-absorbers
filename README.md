@@ -10,8 +10,15 @@ Feel free to use these images as you wish, however, please ensure proper attribu
 
 ![Efficiency improvements for a range of ns2 solar absorbers](https://raw.githubusercontent.com/SMTG-UCL/ns2-solar-absorbers/master/ns2-absorber-efficiency-chart.png)
 
+Change log
+----------
+
+- **22/08/18** – Updated with efficiency chart with results from 2017 and 2018.
+- **05/01/17** – Files uploaded.
+
 Disclaimer
-------
+----------
+
 These images were originally published under a Creative Commons Attribution 3.0 Unported Licence. Material from this article can be used in other publications provided that the following acknowledgement is given:
 
 > A. M. Ganose, C. N. Savory, D. O. Scanlon, Beyond Methylammonium Lead Iodide: Prospects for the Emergent Field of ns<sup>2</sup> Containing Solar Absorbers, *Chem. Commun.*, **53**, 20–44 (2016) - Published by The Royal Society of Chemistry.
